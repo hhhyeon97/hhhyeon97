@@ -6,7 +6,7 @@
 
 
 <!--내용 부분-->
-<h3 align="center"> 🗯️ Teck Stack </h3>
+<h3 align="center"> 🗯️ Stack </h3>
 
 <div align="center">
   
