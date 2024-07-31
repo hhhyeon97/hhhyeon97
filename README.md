@@ -1,7 +1,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif"/>
+  <img src="https://i.pinimg.com/originals/0a/dd/5a/0add5a26394fa458118f96c0bb49e840.gif" width="500" />
 </div>
 
 
